@@ -1,0 +1,8 @@
+en-f-tee/node_modules
+en-f-tee/.env
+en-f-tee/cache
+en-f-tee/artifacts
+
+
+en-f-tee-dapp/node_modules
+en-f-tee-dapp/build
